@@ -1,6 +1,6 @@
 body {
 text-align: center;
-background-color: azure;
+background-color: BlueViolet;
 }
 img {
 height: 200px;
@@ -8,5 +8,5 @@ width: 200px;
 }
 li{
 padding-top:2px;
-border: 2px black solid;
+border: 2px DarkBlue solid;
 }
